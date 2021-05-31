@@ -20,9 +20,9 @@ from object_detection.builders import model_builder
 configs = config_util.get_configs_from_pipeline_file(CONFIG_PATH)
 detection_model = model_builder.build(model_config=configs['model'], is_training=False)
 
-# Restore checkpoint
+# Set checkpoint
 ckpt = tf.compat.v2.train.Checkpoint(model=detection_model)
-ckpt.restore(os.path.join(CHECKPOINT_PATH, 'ckpt-21')).expect_partial()
+ckpt.restore(os.path.join(CHECKPOINT_PATH, 'ckpt-21')).expect_partial() #replace 'ckpt-21' with your latest checkpoint
 
 @tf.function
 def detect_fn(image):
