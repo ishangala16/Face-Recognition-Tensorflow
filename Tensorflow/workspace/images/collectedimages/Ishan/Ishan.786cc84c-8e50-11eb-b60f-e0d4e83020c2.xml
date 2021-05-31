@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ishan</folder>
+	<filename>Ishan.786cc84c-8e50-11eb-b60f-e0d4e83020c2.jpg</filename>
+	<path>D:\Ishan\Python Projects\Sign Language Detection\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Ishan\Ishan.786cc84c-8e50-11eb-b60f-e0d4e83020c2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ishan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>58</ymin>
+			<xmax>396</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>
