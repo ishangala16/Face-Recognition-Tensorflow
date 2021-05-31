@@ -9,8 +9,11 @@ A face recognition project using tensorflow objection detection API
 * Cudnn 8.0
 
 ## Installation
-* Object Detection Api (You can follow the [official installation tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html) to install object detection api)
+*  Anaconda Environment
+*  Tensorflow 
+*  Object Detection Api
 * Use **Tensorflow Version: 2.4.1** & **Python Version: 3.7.4** as it works perfectly without any dependancy issues.
+* Follow [official installation tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html) to install all dependancies.
 
 ## Sample Output
 ![alt-text](https://github.com/ishangala16/face-recognition-tensorflow-object-detection-api/blob/main/Sample%20Output.png)
