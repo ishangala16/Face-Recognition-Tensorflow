@@ -1,5 +1,5 @@
 # Face Recognition with TensorFlow Object Detection API
-A face recognition project using tensorflow objection detection api
+A face recognition project using tensorflow objection detection API
 
 ## Environment Requirements:
 
@@ -10,7 +10,7 @@ A face recognition project using tensorflow objection detection api
 
 ## Installation
 * Object Detection Api (You can follow the [official installation tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html) to install object detection api)
-* Use the above mentioned *Tensorflow Version* & *Python Version* as it works perfectly without any dependancy issues.
+* Use **Tensorflow Version: 2.4.1** & **Python Version: 3.7.4** as it works perfectly without any dependancy issues.
 
 ## Sample Output
 ![alt-text](https://github.com/ishangala16/face-recognition-tensorflow-object-detection-api/blob/main/Sample%20Output.png)
