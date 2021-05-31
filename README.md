@@ -13,5 +13,6 @@ A face recognition project using tensorflow objection detection api
 * Use the above mentioned *Tensorflow Version* & *Python Version* as it works perfectly without any dependancy issues.
 
 ## Sample Output
+![alt-text](https://github.com/ishangala16/face-recognition-tensorflow-object-detection-api/blob/main/Sample%20Output.png)
 
 
